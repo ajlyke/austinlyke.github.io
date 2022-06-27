@@ -1,0 +1,18 @@
+name: "austin-website"
+output_dir: "."
+navbar:
+  title: "Austin Lyke"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Dissertation Dashboard"
+      href: dissds.html
+    - text: "Visualizations"
+      href: viz.html
+    - text: "CV"
+      href: cv2.html
+output:
+  html_document:
+    css: style.css

@@ -1,0 +1,45 @@
+
+a:link {
+  color: blue;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica;
+  font-size:150%;
+}
+
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #A3319F; /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
+        a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: black; /*BACKGROUND color for active*/
+    background-color: #D3D3D3;
+}
+
+.navbar-default {
+    background-color: #D3D3D3 ;
+    border-color: black;
+      font-size:125%;
+}
+
+.navbar-brand {
+   background-color: #D3D3D3 ;
+    font-size: 150%;
+}
+
+/* Title */
+.navbar-default .navbar-brand {
+    color: blue;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #A3319F;
+}
+.navbar-default .navbar-nav > li > a {
+    color: blue;
+}

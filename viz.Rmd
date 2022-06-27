@@ -1,0 +1,54 @@
+---
+title: "Visualizations"
+
+output: html_document
+---
+**A sample of ad-hoc data visualizations for various projects, 2019-2022.**
+<br> 
+<br>
+
+*California Community College Baccalaureate Pilot Programs*
+<br>
+
+<img src="ccb_map4.png" width="500" height="500">
+
+
+***
+
+*Pell Enrollment in California's Higher Education System*
+<br>
+
+<img src="ccb_system_pell.png" width="500" height="350">
+
+***
+
+
+*National Highway System, New Hampshire*
+<br>
+
+<img src="nh_nhs_map.jpeg" width="500" height="500">
+
+***
+
+
+*Logit Model Estimates, Relationship between % Degrees and Gentrification in LA*
+<br>
+
+<img src="gent_coefs_ashe.png" width="500" height="286">
+
+***
+
+
+
+*Student Population Change in Berkeley, CA, 2010-2019*
+<br>
+
+<img src="berkeley_change.jpeg" width="500" height="500">
+
+***
+
+*Cryptocurrency Complaints*
+<br>
+
+<img src="virtual_company2.jpeg" width="500" height="333.33333">
+
